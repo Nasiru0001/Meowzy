@@ -1,5 +1,5 @@
 import "./App.css";
-import Card from "./assets/Components/card";
+import Card from "./assets/Components/Card";
 import { useState } from "react";
 
 // const API_BASE_URL = " https://api.thecatapi.com/v1/images/search ";
